@@ -211,6 +211,13 @@ Shared CNN Encoder
 
 ---
 
+### Tech Stack
+* Python
+* PyTorch
+* OpenCV
+* MediaPipe
+* NumPy / SciPy
+
 ##  References
 
 1. IEEE Paper:
@@ -222,6 +229,12 @@ Shared CNN Encoder
    * [https://ieeexplore.ieee.org/document/10850706](https://ieeexplore.ieee.org/document/10850706)
 
 ---
+
+## What I learned
+ * Liveness detection is not reliable with only image classification
+ * Combining multiple cues leads to better performance
+ * Dataset preparation can be more challenging than model training
+ * Real-time systems require careful balancing between accuracy and speed
 
 ## Future Improvements
 
