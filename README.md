@@ -6,7 +6,7 @@
 
 * Vanshika Sharma 
 * Anshul Sahu
-  Btech CSE (NSUT)
+  # Btech CSE (NSUT)
 
 
 
