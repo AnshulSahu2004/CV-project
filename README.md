@@ -4,9 +4,9 @@
 # Face Anti-Spoofing System using Deep Learning
  BY:-
 
-* Vanshika Sharma 
+* Vanshika Sharma (Btech CSE (NSUT))
 * Anshul Sahu
-** Btech CSE (NSUT)
+  (Btech CSE (NSUT))
 
 
 
