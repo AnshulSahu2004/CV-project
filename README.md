@@ -4,8 +4,9 @@
 # Face Anti-Spoofing System using Deep Learning
  BY:-
 
-* Vanshika Sharma (2023UCS1689)
-* Anshul Sahu (2023UCS1726)
+* Vanshika Sharma 
+* Anshul Sahu
+  Btech CSE (NSUT)
 
 
 
@@ -136,34 +137,6 @@ Loss = Spoof_Loss + \lambda \times Depth_Loss
 
 ##  Architecture
 
-###  Pipeline
-
-
-Input Image/Video
-        ↓
-Face Detection & Alignment
-        ↓
-ROI Extraction (Face + Cheeks + Forehead)
-        ↓
-Shared CNN Encoder
-        ↓
- ┌──────────────┬──────────────┐
- │  rPPG Branch │ Depth Branch │
- │ (Temporal)   │ (Spatial)    │
- └───────┬──────┴───────┬──────┘
-         ↓              ↓
-  Physiological     Geometric
-     Features        Features
-         └──────┬──────┘
-                ↓
-        Feature Fusion
-                ↓
-      Liveness Classifier
-                ↓
-         LIVE / SPOOF
-
-
-
 ## CNN Feature Hierarchy
 
 | Layer        | Feature Type        |
@@ -258,9 +231,6 @@ to create a **highly reliable and scalable face anti-spoofing solution** suitabl
 * Face unlock systems
 * Banking authentication
 * Surveillance systems
-
-## Author
-* Vanshika Sharma Anshul Sahu B.Tech CSE (3rd Year)
 
 ## Note
 * This project is built for learning and experimentation purposes and serves as a base for further improvements.
