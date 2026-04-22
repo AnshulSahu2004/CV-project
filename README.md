@@ -1,5 +1,6 @@
-## CV Project
-## Run the main.py file for execution
+# CV Project
+## Run all the .py files then main.py file for execution (recommended to use multiple datasets to avoid overfitting)
+
 
 # Face Anti-Spoofing System using Deep Learning
  BY:-
