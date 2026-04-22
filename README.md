@@ -259,5 +259,13 @@ to create a **highly reliable and scalable face anti-spoofing solution** suitabl
 * Banking authentication
 * Surveillance systems
 
+## Author
+* Vanshika Sharma Anshul Sahu B.Tech CSE (3rd Year)
+
+## Note
+* This project is built for learning and experimentation purposes and serves as a base for further improvements.
+
+
+
 
 
